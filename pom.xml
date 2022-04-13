@@ -48,11 +48,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-gateway</artifactId>
-			
-			</dependency>
+		
 		<!-- 服务发现 -->
 		<dependency>
 			  <groupId>com.alibaba.cloud</groupId>
